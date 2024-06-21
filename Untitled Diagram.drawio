@@ -1,9 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2024-06-21T03:59:21.566Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.5.2" etag="axyYJ_sH833k2_m4gUnm" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-21T04:17:50.888Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="VysNesMJ5EedFXW5o20D" version="24.5.2" type="github">
   <diagram name="Page-1" id="FJ91i-_OKmqHHTarKrL0">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FQ13j7K0niscBDkTeUKi-20" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="555" y="280" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="FQ13j7K0niscBDkTeUKi-19" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="555" y="50" width="175" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="FQ13j7K0niscBDkTeUKi-18" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="33.25" y="235" width="115" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="FQ13j7K0niscBDkTeUKi-4" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.storage;" vertex="1" parent="1">
+          <mxGeometry x="670" y="70" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FQ13j7K0niscBDkTeUKi-6" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;" vertex="1" parent="1">
+          <mxGeometry x="617.5" y="300" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FQ13j7K0niscBDkTeUKi-7" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;" vertex="1" parent="1">
+          <mxGeometry x="600" y="70" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FQ13j7K0niscBDkTeUKi-8" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.administrator;" vertex="1" parent="1">
+          <mxGeometry x="80" y="250" width="21.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FQ13j7K0niscBDkTeUKi-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.457;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FQ13j7K0niscBDkTeUKi-17" target="FQ13j7K0niscBDkTeUKi-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="280" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FQ13j7K0niscBDkTeUKi-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FQ13j7K0niscBDkTeUKi-17" target="FQ13j7K0niscBDkTeUKi-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FQ13j7K0niscBDkTeUKi-17" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="195" y="160" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="FQ13j7K0niscBDkTeUKi-9" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.virtual_machine;" vertex="1" parent="1">
+          <mxGeometry x="251.5" y="190" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FQ13j7K0niscBDkTeUKi-5" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.web_browser;" vertex="1" parent="1">
+          <mxGeometry x="320" y="195" width="56.34" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FQ13j7K0niscBDkTeUKi-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.009;entryY=0.578;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FQ13j7K0niscBDkTeUKi-18" target="FQ13j7K0niscBDkTeUKi-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FQ13j7K0niscBDkTeUKi-24" value="User" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60.75" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FQ13j7K0niscBDkTeUKi-25" value="&lt;div align=&quot;left&quot;&gt;Load Balancer VM (HAproxy)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;IP : 192.168.56.10&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Port :&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- 80 (http) : 3000 (Host)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="251.5" y="240" width="148.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="FQ13j7K0niscBDkTeUKi-26" value="&lt;div align=&quot;left&quot;&gt;Backend 1 VM&lt;/div&gt;&lt;div&gt;(Flask + MongoDB)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;IP : 192.168.56.11&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="583.5" y="100" width="146.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="FQ13j7K0niscBDkTeUKi-27" value="&lt;div align=&quot;left&quot;&gt;Backend 2 VM&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(Flask)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;IP : 192.168.56.12&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="583.5" y="340" width="130" height="105" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
